@@ -11,6 +11,7 @@ Please do not use any 3rd party libraries (do this via 1st principles):
 
 You can use a 3rd party library to do the following:
 
-1. Create a simplistic named graph (Refer to: https://en.wikipedia.org/wiki/Named_graph) to link any commonality of the proper nouns found in previous example.
+3. Create a simplistic named graph (Refer to: https://en.wikipedia.org/wiki/Named_graph) to link any commonality of the proper nouns found in previous example.
 
 Preferably use JavaScript but this is not mandatory.
+Note a 3rd party library is not a standard library that comes with default for the language.
